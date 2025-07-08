@@ -65,7 +65,7 @@ Tech Stack: `HTML`, `CSS`, `JavaScript`, `OpenWeatherMap API`
 ---
 
 ## 🧭 Visitor Counter:
-[![](https://visitcount.itsvg.in/api?id=arya-potu&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/arya-potu/count.svg)
 
 <!---
 arya-potu/arya-potu is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
