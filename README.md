@@ -27,6 +27,11 @@
 
 ## 🛠️ Projects:
 
+### 📌 [Urban-ecommerce 🛍️](https://github.com/arya-potu/Urban-ecommerce)
+A full-stack e-commerce platform that supports product browsing, user authentication, cart management, order placement, and admin controls.  
+Built with modern MERN stack and responsive UI for seamless user experience.  
+Tech Stack: `MongoDB`, `Express.js`, `React`, `Node.js`, `Tailwind CSS`, `JWT`, `PayPal API`
+
 ### 📌 [BingeMovie 🍿](https://github.com/arya-potu/BingeMovie-Ott)
 A full-featured OTT platform clone with user authentication, movie browsing, and modern UI/UX.  
 Built to simulate the core experience of popular streaming apps.  
@@ -48,6 +53,7 @@ Tech Stack: `Java`, `Firebase`, `XML`, `Android Studio`
 A responsive weather app that shows real-time weather data using location input.  
 Integrated with OpenWeatherMap API for accurate forecasts.  
 Tech Stack: `HTML`, `CSS`, `JavaScript`, `OpenWeatherMap API`
+
 
 > ✨ More projects coming soon!
 
