@@ -2,6 +2,7 @@
 👋 Hi there! I'm **Aryavardhan Potu**, an enthusiastic and curious developer passionate about building and learning.<br>  
 💡 Currently exploring the world of **Web Development** and **Data Structures & Algorithms (DSA)** to strengthen my core CS foundations.<br>  
 🚀 Constantly striving to improve, solve real-world problems, and contribute meaningfully to projects and open-source.<br>  
+🌐 Check out my **Portfolio:** [portfolio-qxuw.vercel.app](https://portfolio-qxuw.vercel.app/) 
 
 ---
 
